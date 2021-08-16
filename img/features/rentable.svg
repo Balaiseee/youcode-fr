@@ -1,0 +1,22 @@
+<svg width="85" height="85" xmlns="http://www.w3.org/2000/svg">
+
+ <g>
+  <title>background</title>
+  <rect fill="none" id="canvas_background" height="402" width="582" y="-1" x="-1"/>
+ </g>
+ <g>
+  <title stroke="#000000">Layer 1</title>
+  <line id="svg_5" y2="37.963" y1="34.12" x2="25.607" x1="25.607" stroke-width="2.5" stroke-miterlimit="10" stroke-linejoin="round" stroke-linecap="round" stroke="#000000" fill="none"/>
+  <path id="svg_6" stroke-width="2.5" stroke-linecap="round" stroke="#000000" fill="none" d="m37.146,27.898001l0,-8l5.374001,0.001999c0.66,-0.001999 0.973,-0.518 1.099998,-0.822001c0.268002,-0.651999 0.176003,-1.474998 -0.216999,-1.866999l-10.862,-10.854001c-0.76,-0.756 -1.992001,-0.756 -2.743999,0l-10.811001,10.852999c-0.42,0.42 -0.549,1.229 -0.291,1.85c0.227001,0.541 0.697001,0.84 1.323999,0.84l5.588001,-0.001999l0,9.198"/>
+  <line id="svg_9" y2="61.549" y1="58.688" x2="57.535" x1="57.535" stroke-width="2.5" stroke-miterlimit="10" stroke-linejoin="round" stroke-linecap="round" stroke="#000000" fill="none"/>
+  <line id="svg_10" y2="67.119" y1="64.506" x2="42.033" x1="42.033" stroke-width="2.5" stroke-miterlimit="10" stroke-linejoin="round" stroke-linecap="round" stroke="#000000" fill="none"/>
+  <line id="svg_11" y2="59.537" y1="54.852" x2="42.033" x1="42.033" stroke-width="2.5" stroke-miterlimit="10" stroke-linejoin="round" stroke-linecap="round" stroke="#000000" fill="none"/>
+  <path id="svg_12" stroke-width="2.5" stroke-linecap="round" stroke="#000000" fill="none" d="m57.535,53.897999l0,-11.350998l7.218998,0.001999c0.887001,0 1.309006,-0.695 1.479004,-1.104c0.359001,-0.876999 0.236,-1.980999 -0.291,-2.509998l-14.594002,-14.582001c-1.02,-1.016001 -2.675999,-1.016001 -3.686001,0l-14.528,14.582001c-0.562,0.565998 -0.736,1.653 -0.390999,2.487c0.305,0.726997 0.938,1.126999 1.778999,1.128998l7.510002,-0.001999l0,7.702999"/>
+  <line id="svg_14" y2="60.799" y1="47.896" x2="49.502" x1="49.502" stroke-width="2.5" stroke-miterlimit="10" stroke-linejoin="round" stroke-linecap="round" stroke="#000000" fill="none"/>
+  <line id="svg_15" y2="72.197" y1="65.768" x2="49.502" x1="49.502" stroke-width="2.5" stroke-miterlimit="10" stroke-linejoin="round" stroke-linecap="round" stroke="#000000" fill="none"/>
+  <line id="svg_16" y2="79.211" y1="77.166" x2="49.502" x1="49.502" stroke-width="2.5" stroke-miterlimit="10" stroke-linejoin="round" stroke-linecap="round" stroke="#000000" fill="none"/>
+  <path id="svg_19" stroke-width="2.5" stroke-miterlimit="10" stroke-linecap="round" stroke="#000000" fill="none" d="m19.422001,66.871002c0,3.202995 2.792,5.798996 6.233999,5.798996c3.447001,0 6.239,-2.596001 6.239,-5.798996c0,-3.205002 -3.33,-4.605003 -6.251001,-6.090004c-2.921999,-1.48 -6.25,-2.882999 -6.25,-6.085999c0,-3.207001 2.789001,-5.800999 6.236,-5.800999c3.448,0 6.237001,2.593998 6.237001,5.800999"/>
+  <line id="svg_20" y2="44.752" y1="48.865" x2="25.631" x1="25.631" stroke-width="2.5" stroke-miterlimit="10" stroke-linecap="round" stroke="#000000" fill="none"/>
+  <line id="svg_21" y2="72.699" y1="76.814" x2="25.631" x1="25.631" stroke-width="2.5" stroke-miterlimit="10" stroke-linecap="round" stroke="#000000" fill="none"/>
+ </g>
+</svg>

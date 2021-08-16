@@ -1,0 +1,11 @@
+# Site settings
+title: "Youcode"
+email: "bonjour@youcode.fr"
+adresse: "7. Rue Le Bouvier, Bourg-La-Reine 92340"
+telephone: "+33 6 48 80 88 75"
+description: "Votre site vitrine clef-en-main dès maintenant !"
+author: "Youcode, créateur de solutions depuis 2020"
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "" # the base hostname & protocol for your site
+# Build settings
+markdown: kramdown

@@ -1,0 +1,22 @@
+.bg-features {
+	background-color: #cbff00;
+	color: #000000;
+}
+
+.feature-box {
+    max-width: 400px;
+    margin: 50px auto 0;
+    @media (min-width: 992px) {
+        margin: 20px auto 0;
+    }
+    p {
+        margin-bottom: 0;
+    }
+}
+
+.feature {
+    text-align: center;
+    @media (min-width:992px){
+    	width: 20%;
+    }
+}

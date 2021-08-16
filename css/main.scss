@@ -1,0 +1,21 @@
+---
+---
+
+@charset "utf-8";
+
+$font-family-base: "Montserrat", sans-serif;
+$font-family-heading: "Montserrat Alternates", sans-serif;
+
+@import
+	"mixins",
+        "base",
+        "fonts",
+        "components/header",
+        "components/intro",
+        "components/features",
+        "components/pricing",
+        "components/contact",
+        "effects/glitch",
+        "effects/animate",
+        "effects/bounceIn",
+        "effects/tada";
