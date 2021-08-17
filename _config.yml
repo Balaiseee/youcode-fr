@@ -8,4 +8,6 @@ author: "Youcode, créateur de solutions depuis 2020"
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "" # the base hostname & protocol for your site
 # Build settings
+sass:
+ style: compressed
 markdown: kramdown
