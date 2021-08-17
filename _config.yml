@@ -1,4 +1,5 @@
 # Site settings
+
 title: "Youcode"
 email: "bonjour@youcode.fr"
 adresse: "7. Rue Le Bouvier, Bourg-La-Reine 92340"
@@ -7,7 +8,20 @@ description: "Votre site vitrine clef-en-main dès maintenant !"
 author: "Youcode, créateur de solutions depuis 2020"
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "" # the base hostname & protocol for your site
+
 # Build settings
+
+#Minify CSS
 sass:
  style: compressed
+
+#Minify HTML
+compress_html:
+    clippings: []
+    comments: ["<!-- ", " -->"]
+    endings: []
+    blanklines: false
+    profile: false
+    startings: []
+
 markdown: kramdown
