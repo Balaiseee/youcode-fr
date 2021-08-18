@@ -25,6 +25,7 @@ h4,
 h5,
 h6 {
     font-family: $font-family-heading;
+    font-weight: 300;
 }
 
 h1,
@@ -57,7 +58,6 @@ section, aside {
 .btn {
     border: none;
     border-radius: 300px;
-    font-weight: 700;
     text-transform: uppercase;
 }
 
