@@ -33,7 +33,7 @@ h2 {
     font-size: 45px;
 }
 h3 {
-    font-size: 35px;
+    font-size: calc(min(8vw,35px));
 }
 
 
@@ -62,5 +62,6 @@ section, aside {
 }
 
 .btn-xl {
+    font-size: 18px;
     padding: 15px 30px;
 }
